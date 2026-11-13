@@ -18,4 +18,4 @@ Otevři notebook `IT hra ESCAPE!.ipynb` v Jupyter Notebooku a spusť herní buň
 ## Informace
 
 - **Jazyk:** Python
-- **Autor / GitHub přezdívka:** @1301-design
+- **Autor / GitHub přezdívka:** @SofiITGMP3
